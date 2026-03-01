@@ -8,6 +8,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import com.greenicephoenix.voidlink.R // Imports your app's resources
 
+
 // Define the custom dot-matrix font family
 val DotMatrixFont = FontFamily(
     Font(R.font.custom_dot_matrix, FontWeight.Normal) // Ensure the filename matches your .ttf file exactly
